@@ -1,0 +1,30 @@
+a {
+  color: black !important;
+}
+
+.btnn {
+  width: 50%;
+  background-color: royalblue;
+  color: white;
+  outline-color: red;
+}
+
+body {
+  background-color: white;
+}
+
+.home-card {
+  max-width: 900px;
+  height: max-content;
+  margin: 2rem auto;
+}
+
+.input-field {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.material-icons:hover {
+  cursor: pointer;
+}
